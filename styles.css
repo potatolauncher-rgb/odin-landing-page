@@ -1,7 +1,13 @@
 body {
     font-family: "Roboto", "Open Sans", sans-serif;
+    display: flex;
+    flex-direction: column;
 }
-.landing {
+
+.first-box {
     background-color: #1F2937;
-    
+}
+
+.third-box {
+    background-color: #E5E7EB
 }
